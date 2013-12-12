@@ -1,0 +1,4 @@
+maccoin
+=======
+
+Cryptocurrency coin
